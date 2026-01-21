@@ -1,0 +1,6 @@
+title: Геосервисы и карты
+description: Использую OpenStreetMap как источник открытых картографических данных для веб‑приложений. Работаю с Leaflet для отображения интерактивных карт, маркеров и слоев, а также интеграции карт в пользовательский интерфейс.
+image:  '/technologies/openstreetmap-leaflet.jpg'
+url: "#"
+tags: ["OpenStreetMap", "Leaflet"]
+date: "2025"

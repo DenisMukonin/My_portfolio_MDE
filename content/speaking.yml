@@ -1,0 +1,16 @@
+title: Выступления
+description: Описание
+links:
+  - label: Где я выступал
+    size: md
+events:
+  - category: Conference
+    title: "-"
+    date: "2025-10-26"
+    location: "Russ"
+    url: "#"
+  - category: Conference
+    title: "-"
+    date: "2026-01-01"
+    location: "Russ"
+    url: "#"

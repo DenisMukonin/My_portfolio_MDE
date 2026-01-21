@@ -1,0 +1,6 @@
+title: Стилизация и UI‑фреймворки
+description: Использую PostCSS, а также utility‑first фреймворки Tailwind CSS и Windi CSS для быстрой и консистентной разработки интерфейсов. Это позволяет выстраивать гибкую дизайн‑систему, ускорять верстку и упрощать поддержку стилей в долгосрочных проектах.
+image:  '/technologies/postcss-tailwind-windi.jpg'
+url: "#"
+tags: ["PostCSS", "Tailwind CSS", "Windi CSS"]
+date: "2025"

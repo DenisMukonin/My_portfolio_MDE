@@ -1,0 +1,6 @@
+title: Контроль версий и хостинг репозиториев
+description: Использую Git для ведения истории изменений, работы с ветками и организации командной разработки. Работал с GitLab, GitHub и Gitea как с платформами для хранения кода, code review, управления задачами и запуска CI/CD‑процессов.
+image:  '/technologies/git-github-gitlab-gitea.jpg'
+url: "#"
+tags: ["Git", "GitHub", "GitLab", "Gitea"]
+date: "2025"

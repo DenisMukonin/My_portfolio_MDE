@@ -1,0 +1,6 @@
+title: Контейнеризация и веб‑инфраструктура
+description: Применяю Docker и Docker Compose для контейнеризации приложений, настройки локальных и тестовых окружений и оркестрации нескольких сервисов. Использую Nginx в связке с контейнерами как веб‑сервер и reverse proxy для фронтенда и backend‑сервисов.
+image:  '/technologies/docker-nginx.jpg'
+url: "#"
+tags: ["Docker", "Docker Compose", "Nginx"]
+date: "2025"
